@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://711er.github.io//"/>
-  <updated>2015-06-07T19:25:10.000Z</updated>
+  <updated>2015-06-08T11:35:31.000Z</updated>
   <id>http://711er.github.io//</id>
   
   <author>
@@ -16,11 +16,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[A Taste of Pi]]></title>
+    <link href="http://711er.github.io/2015/06/08/Picture-Post/"/>
+    <id>http://711er.github.io/2015/06/08/Picture-Post/</id>
+    <published>2015-06-08T11:35:31.000Z</published>
+    <updated>2015-06-08T11:35:31.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a post from a draft.</p>
+<p><img src="http://7xjkrq.com1.z0.glb.clouddn.com/pi-small.png?attname=&amp;e=1433849340&amp;token=QtOEPaDbjOaxgsresJZWzHdh11l5YLfegv1mRkNP:gcPjn3NGW9U30jsMokEL0xa1t70" alt="A Taste of Pi"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is a post from a draft.</p>
+<p><img src="http://7xjkrq.com1.z0.glb.clouddn.com/pi-small.png?attname=&amp;e=1433849340&amp;token=QtOE]]>
+    </summary>
+    
+      <category term="test" scheme="http://711er.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[My Gallery]]></title>
+    <link href="http://711er.github.io/2015/06/08/My-Gallery/"/>
+    <id>http://711er.github.io/2015/06/08/My-Gallery/</id>
+    <published>2015-06-08T10:39:48.000Z</published>
+    <updated>2015-06-08T11:32:27.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="photo" scheme="http://711er.github.io/tags/photo/"/>
+    
+      <category term="test" scheme="http://711er.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Plan]]></title>
     <link href="http://711er.github.io/2015/06/08/plan/"/>
     <id>http://711er.github.io/2015/06/08/plan/</id>
     <published>2015-06-07T17:40:49.000Z</published>
-    <updated>2015-06-07T19:25:10.000Z</updated>
+    <updated>2015-06-08T11:39:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="2015-05-10_Sun">2015-05-10 Sun</h1><h2 id="Recent_Study_on_Programming">Recent Study on Programming</h2><ol>
 <li><strong>python</strong><ul>
 <li>Basics</li>
@@ -56,27 +91,30 @@
 </ol>
 <hr>
 <h1 id="Examples">Examples</h1><h2 id="Code_blocks">Code blocks</h2><figure class="highlight fortran"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">program</span></span> main</span><br><span class="line">    <span class="built_in">write</span>(*,*) <span class="string">"Hello, world!"</span></span><br><span class="line"><span class="keyword">end</span> <span class="function"><span class="keyword">program</span></span></span><br></pre></td></tr></table></figure>
-<h2 id="Quotations[^1]">Quotations[^1]</h2><p>Footnote in main body[^2]</p>
+<h2 id="Quotations<!-_[^1]_->">Quotations<!-- [^1] --></h2><!-- Footnote in main body[^2] -->
 <blockquote>
 <p><em>The early career of a young theoretical physicist consists of ever-deepening understanding of the harmonic oscillator.</em><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>                                                                                               <strong><em>Sidney Coleman</em></strong></p>
 </blockquote>
 <p>$$ \mathcal{H} = \frac{p^2}{2m} + \frac{1}{2} \omega^2 x^2 $$</p>
-<!-- ## Images
-![Matplolib ```plt.imshow()``` plot \label{band2d}](https://www.dropbox.com/s/efcfa2tpiyg7bdm/band2d.pdf?dl=0)  
-
-Figure \ref{band2d} plot 2d colormap figures using [Matplotlib](http://matplotlib.org) -->  
+<h2 id="Images">Images</h2><p><img src="http://7xjkrq.com1.z0.glb.clouddn.com/band2d.png?attname=&amp;e=1433849934&amp;token=QtOEPaDbjOaxgsresJZWzHdh11l5YLfegv1mRkNP:lJ6FUqArRZlkAe7vKdHmNc0RXtk" alt="Matplolib ```plt.imshow()``` plot \label{band2d}">  </p>
+<p>Figure \ref{band2d} plot 2d colormap figures using <a href="http://matplotlib.org" target="_blank" rel="external">Matplotlib</a>  </p>
 <h1 id="2015-05-28_Thu">2015-05-28 Thu</h1><h2 id="Network_programming_studying_plan">Network programming studying plan</h2><ol>
 <li>Javascript</li>
 <li>PHP</li>
 <li>CGI</li>
 <li>HTML/HTML5+CSS</li>
 </ol>
-<p>[^1]: This is a footnote.<br>[^2]: Another footnote.</p>
+<!-- [^1]: This is a footnote.
+[^2]: Another footnote. -->
 ]]></content>
     <summary type="html">
     <![CDATA[<h1 id="2015-05-10_Sun">2015-05-10 Sun</h1><h2 id="Recent_Study_on_Programming">Recent Study on Programming</h2><ol>
 <li><strong>python</str]]>
     </summary>
+    
+      <category term="CS" scheme="http://711er.github.io/tags/CS/"/>
+    
+      <category term="test" scheme="http://711er.github.io/tags/test/"/>
     
   </entry>
   
